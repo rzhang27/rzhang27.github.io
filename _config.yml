@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
+title:               Rob Zhang
 tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+url:                 http://rzhang27.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Rob Zhang
+  url:               
+  email:             rzhang27gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/zwmiller
+  repo:              https://github.com/rzhang27
 
 # Gems
 gems:
